@@ -130,7 +130,7 @@ Slicer
 
 ---
 
-## ✔ Deliverables
+## Deliverables
 
 - SQL VIEW for unified profitability analysis
 - Power BI data model for interactive visuals
