@@ -104,17 +104,21 @@ KPI Example
 
 ![KPI Cards]  (https://bit.ly/BI-Project-KPIDiscount)
 
+
 Dashboard Overview
 
 ![Dashboard Overview] (https://bit.ly/BI-Project-DashboardOverview)
+
 
 Bar Chart
 
 ![Bar Chart] (https://bit.ly/BI-Project-Bar-Chart)
 
+
 Profit Line Chart 
 
 ![Profit Line Chart ] (https://bit.ly/BI-Project-ProfitLineChart)
+
 
 Slicer
 
